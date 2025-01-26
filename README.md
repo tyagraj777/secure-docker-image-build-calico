@@ -1,5 +1,5 @@
 # secure-docker-image-build-calico
-secure Docker image build project usign Calico and Terraform
+secure Docker image build project using Calico and Terraform
 
 # Kubernetes Network Policies with Calico and Terraform
 
